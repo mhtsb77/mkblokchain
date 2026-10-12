@@ -148,5 +148,5 @@ contract SupplyChainKopi {
 
 *Laporan dibuat dari file `/SupplyChainKopi.sol`*
 
-![Screenshot 20261012 115619.png](Screenshot-2026-10-12-115619.png)
-![Screenshot 20261012 115223.png](Screenshot-2026-10-12-115223.png)
+![Screenshot 115223.png](Screenshot-115223.png)
+![Screenshot 115619.png](Screenshot-115619.png)
